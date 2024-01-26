@@ -141,6 +141,4 @@
 ## Day 25: Azure Interview Preparion
 - Review of Key Concepts
 - Interviews Questions and Practice Sessions
-## AWS SAA-C03 Practice Exams Links
-- https://tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-saa-c03-practice-exams/
-- https://www.knowledgehut.com/practice_tests/aws-solutions-architect-associate-practice-test-series-1-practice-test
+
